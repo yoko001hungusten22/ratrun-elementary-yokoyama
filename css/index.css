@@ -176,3 +176,37 @@ header nav ul li a {
   color: #fff;
   text-decoration: none;
 }
+
+footer{
+  background-color: #ce5230;
+	color: #fff;
+	display: flex;
+	font-family: "Comic Sans MS";
+	width: 100%;
+  padding: 10px 20px;
+  font-family: "Comic Sans MS";
+}
+
+footer p {
+  font-size: 15px;
+}
+
+.footer-left {
+  padding-left: 20px;
+}
+
+.copy-right {
+  font-size: 13px;
+}
+
+.footer-right {
+  margin-left: auto;
+  margin-right: 150px;
+  font-weight: bold;
+}
+
+.footer-right a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: 700;
+}
